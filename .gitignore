@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# medium app
+mediumclone/node_modules
+
 # testing
 /coverage
 
